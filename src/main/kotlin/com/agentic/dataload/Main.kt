@@ -14,7 +14,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 @Serializable
-data class AnatomyQuestion(val question: String, val options: List<String>, val correctAnswerIndex: Int)
+data class AnatomyQuestion(val qno: Int, val question: String, val options: List<String>, val correctAnswerIndex: Int)
 
 fun main(args: Array<String>) {
     if (args.size < 2) {
@@ -42,6 +42,7 @@ fun main(args: Array<String>) {
     println("Uploading ${questions.size} questions to collection '$collectionName'...")
     for ((i, q) in questions.withIndex()) {
         val doc = hashMapOf(
+            "qno" to q.qno,
             "question" to q.question,
             "options" to q.options,
             "correctAnswerIndex" to q.correctAnswerIndex

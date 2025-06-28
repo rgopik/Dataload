@@ -1,0 +1,550 @@
+{
+    "pharmacology_questions": [
+        {
+            "qno": 1,
+            "question": "Which of the following drugs is a proton pump inhibitor?",
+            "options": ["Cimetidine", "Omeprazole", "Misoprostol", "Ranitidine"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "qno": 2,
+            "question": "Which of the following medications is classified as a loop diuretic?",
+            "options": ["Acetazolamide", "Spironolactone", "Furosemide", "Hydrochlorothiazide"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 3,
+            "question": "Which drug is commonly used for the reversal of benzodiazepine overdose?",
+            "options": ["Physostigmine", "Atropine", "Flumazenil", "Naloxone"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 4,
+            "question": "Which of the following is a selective serotonin reuptake inhibitor (SSRI)?",
+            "options": ["Venlafaxine", "Sertraline", "Bupropion", "Amitriptyline"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "qno": 5,
+            "question": "Which drug is used as a long-acting insulin?",
+            "options": ["Insulin regular", "Insulin aspart", "Insulin lispro", "Insulin glargine"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 6,
+            "question": "Which of these is a common side effect of ACE inhibitors?",
+            "options": ["Insomnia", "Tachycardia", "Dry cough", "Constipation"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 7,
+            "question": "Which of the following is an aminoglycoside antibiotic?",
+            "options": ["Ceftriaxone", "Gentamicin", "Ciprofloxacin", "Erythromycin"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "qno": 8,
+            "question": "What is the antidote for acetaminophen toxicity?",
+            "options": ["N-acetylcysteine", "Atropine", "Deferoxamine", "Ethanol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 9,
+            "question": "Which drug is commonly used as an antiplatelet agent?",
+            "options": ["Aspirin", "Warfarin", "Heparin", "Alteplase"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 10,
+            "question": "Which of the following is a second-generation antihistamine?",
+            "options": ["Chlorpheniramine", "Loratadine", "Hydroxyzine", "Diphenhydramine"],
+            "correctAnswerIndex": 1
+        },
+        {
+            "qno": 11,
+            "question": "Which of the following drugs is used to treat Myasthenia Gravis?",
+            "options": ["Diazepam", "Lidocaine", "Atropine", "Neostigmine"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 12,
+            "question": "Which of the following is a leukotriene receptor antagonist used in asthma?",
+            "options": ["Montelukast", "Beclomethasone", "Salbutamol", "Ipratropium"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 13,
+            "question": "Which of the following is an antidote for heparin overdose?",
+            "options": ["Atropine", "Vitamin K", "Protamine sulfate", "Naloxone"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 14,
+            "question": "Which of the following is a centrally acting muscle relaxant?",
+            "options": ["Paracetamol", "Ibuprofen", "Baclofen", "Aspirin"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 15,
+            "question": "Which of the following drugs is used in cyanide poisoning?",
+            "options": ["Sodium thiosulfate", "Flumazenil", "Activated charcoal", "Naloxone"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 16,
+            "question": "Which of the following is a side effect of long-term corticosteroid use?",
+            "options": ["Bradycardia", "Weight loss", "Osteoporosis", "Hypoglycemia"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 17,
+            "question": "Which of the following medications is considered first-line for acute mania treatment?",
+            "options": ["Fluoxetine", "Carbamazepine", "Lorazepam", "Lithium"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 18,
+            "question": "Which class of drugs is primarily used to relieve pain?",
+            "options": ["Antidepressants", "Antipyretics", "Analgesics", "Antibiotics"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "qno": 19,
+            "question": "What is the primary action of beta-blockers?",
+            "options": ["Enhance respiration", "Stimulate digestion", "Increase blood pressure", "Decrease heart rate"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 20,
+            "question": "Which of the following is NOT a route of drug administration?",
+            "options": ["Oral", "Intravenous", "Transdermal", "Magnetic"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 21,
+            "question": "Which of the following is a calcium channel blocker?",
+            "options": ["Verapamil", "Losartan", "Propranolol", "Captopril"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 22,
+            "question": "Which of the following drugs is used to treat Parkinson’s disease?",
+            "options": ["Levodopa", "Diazepam", "Haloperidol", "Amitriptyline"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 23,
+            "question": "Which of the following is a macrolide antibiotic?",
+            "options": ["Erythromycin", "Ciprofloxacin", "Amoxicillin", "Cefixime"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 24,
+            "question": "Which of the following drugs is used to treat gout?",
+            "options": ["Allopurinol", "Ibuprofen", "Paracetamol", "Aspirin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 25,
+            "question": "Which of the following is a side effect of aminoglycosides?",
+            "options": ["Ototoxicity", "Hepatotoxicity", "Constipation", "Hypoglycemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 26,
+            "question": "Which of the following drugs is a non-selective beta-blocker?",
+            "options": ["Propranolol", "Atenolol", "Metoprolol", "Bisoprolol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 27,
+            "question": "Which of the following is a common side effect of opioids?",
+            "options": ["Constipation", "Diarrhea", "Hypertension", "Tachycardia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 28,
+            "question": "Which of the following drugs is used as an anticoagulant?",
+            "options": ["Warfarin", "Aspirin", "Clopidogrel", "Atorvastatin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 29,
+            "question": "Which of the following is a first-generation antihistamine?",
+            "options": ["Diphenhydramine", "Loratadine", "Fexofenadine", "Cetirizine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 30,
+            "question": "Which of the following drugs is used to treat tuberculosis?",
+            "options": ["Isoniazid", "Ciprofloxacin", "Azithromycin", "Amoxicillin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 31,
+            "question": "Which of the following drugs is used to treat peptic ulcers by reducing gastric acid secretion?",
+            "options": ["Ranitidine", "Metoclopramide", "Sucralfate", "Domperidone"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 32,
+            "question": "Which of the following is a dopamine antagonist used as an antiemetic?",
+            "options": ["Metoclopramide", "Ondansetron", "Loperamide", "Omeprazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 33,
+            "question": "Which of the following is a long-acting beta-2 agonist used in asthma?",
+            "options": ["Salmeterol", "Ipratropium", "Montelukast", "Salbutamol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 34,
+            "question": "Which of the following drugs is used to treat hyperthyroidism?",
+            "options": ["Propylthiouracil", "Levothyroxine", "Iodine-131", "Hydrocortisone"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 35,
+            "question": "Which of the following is a common side effect of isoniazid?",
+            "options": ["Peripheral neuropathy", "Hearing loss", "Constipation", "Hypoglycemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 36,
+            "question": "Which of the following drugs is used to treat anaphylaxis?",
+            "options": ["Epinephrine", "Diphenhydramine", "Hydrocortisone", "Salbutamol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 37,
+            "question": "Which of the following is a potassium-sparing diuretic?",
+            "options": ["Spironolactone", "Furosemide", "Hydrochlorothiazide", "Mannitol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 38,
+            "question": "Which of the following drugs is used to treat status epilepticus?",
+            "options": ["Diazepam", "Phenytoin", "Carbamazepine", "Valproic acid"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 39,
+            "question": "Which of the following is a selective COX-2 inhibitor?",
+            "options": ["Celecoxib", "Ibuprofen", "Aspirin", "Naproxen"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 40,
+            "question": "Which of the following drugs is used to treat opioid overdose?",
+            "options": ["Naloxone", "Naltrexone", "Methadone", "Buprenorphine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 41,
+            "question": "Which of the following drugs is used to treat benign prostatic hyperplasia (BPH)?",
+            "options": ["Finasteride", "Tamsulosin", "Dutasteride", "All of the above"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 42,
+            "question": "Which of the following is a common side effect of thiazide diuretics?",
+            "options": ["Hyperuricemia", "Hypoglycemia", "Bradycardia", "Hyperkalemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 43,
+            "question": "Which of the following drugs is used to prevent organ transplant rejection?",
+            "options": ["Cyclosporine", "Methotrexate", "Azathioprine", "Cyclophosphamide"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 44,
+            "question": "Which of the following is a serotonin-norepinephrine reuptake inhibitor (SNRI)?",
+            "options": ["Venlafaxine", "Fluoxetine", "Amitriptyline", "Bupropion"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 45,
+            "question": "Which of the following drugs is used to treat Alzheimer’s disease?",
+            "options": ["Donepezil", "Haloperidol", "Diazepam", "Risperidone"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 46,
+            "question": "Which of the following is a side effect of lithium therapy?",
+            "options": ["Tremor", "Hypertension", "Hyperglycemia", "Bradycardia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 47,
+            "question": "Which of the following drugs is used to treat glaucoma by increasing aqueous humor outflow?",
+            "options": ["Latanoprost", "Timolol", "Acetazolamide", "Brimonidine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 48,
+            "question": "Which of the following drugs is a monoclonal antibody used in cancer therapy?",
+            "options": ["Trastuzumab", "Tamoxifen", "Methotrexate", "Cyclophosphamide"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 49,
+            "question": "Which of the following drugs is used to treat hyperlipidemia by inhibiting HMG-CoA reductase?",
+            "options": ["Atorvastatin", "Gemfibrozil", "Ezetimibe", "Niacin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 50,
+            "question": "Which of the following drugs is used to treat malaria caused by Plasmodium falciparum?",
+            "options": ["Artemether-lumefantrine", "Chloroquine", "Primaquine", "Quinine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 51,
+            "question": "Which of the following drugs is used to treat motion sickness?",
+            "options": ["Scopolamine", "Ondansetron", "Metoclopramide", "Domperidone"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 52,
+            "question": "Which of the following is a common side effect of antipsychotic medications?",
+            "options": ["Extrapyramidal symptoms", "Bradycardia", "Hyperglycemia", "Tinnitus"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 53,
+            "question": "Which of the following drugs is used as a chelating agent in lead poisoning?",
+            "options": ["Dimercaprol", "Deferoxamine", "Penicillamine", "EDTA"],
+            "correctAnswerIndex": 3
+        },
+        {
+            "qno": 54,
+            "question": "Which of the following drugs is a selective alpha-1 blocker used in hypertension?",
+            "options": ["Prazosin", "Propranolol", "Clonidine", "Atenolol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 55,
+            "question": "Which of the following drugs is used to treat methanol poisoning?",
+            "options": ["Fomepizole", "Ethanol", "N-acetylcysteine", "Atropine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 56,
+            "question": "Which of the following is a side effect of chronic phenytoin use?",
+            "options": ["Gingival hyperplasia", "Hair loss", "Hypoglycemia", "Tinnitus"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 57,
+            "question": "Which of the following drugs is used to treat absence seizures?",
+            "options": ["Ethosuximide", "Phenytoin", "Carbamazepine", "Phenobarbital"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 58,
+            "question": "Which of the following is a long-acting benzodiazepine?",
+            "options": ["Diazepam", "Midazolam", "Alprazolam", "Triazolam"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 59,
+            "question": "Which of the following drugs is used to treat iron overdose?",
+            "options": ["Deferoxamine", "EDTA", "Dimercaprol", "Penicillamine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 60,
+            "question": "Which of the following is a side effect of chronic corticosteroid therapy?",
+            "options": ["Osteoporosis", "Hypotension", "Hypoglycemia", "Weight loss"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 61,
+            "question": "Which of the following drugs is used to treat chronic myeloid leukemia (CML)?",
+            "options": ["Imatinib", "Methotrexate", "Cyclophosphamide", "Vincristine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 62,
+            "question": "Which of the following is a common side effect of anticholinergic drugs?",
+            "options": ["Dry mouth", "Bradycardia", "Diarrhea", "Increased sweating"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 63,
+            "question": "Which of the following drugs is used to treat erectile dysfunction?",
+            "options": ["Sildenafil", "Tamsulosin", "Finasteride", "Verapamil"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 64,
+            "question": "Which of the following is a side effect of clozapine?",
+            "options": ["Agranulocytosis", "Hypertension", "Hyperglycemia", "Tinnitus"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 65,
+            "question": "Which of the following drugs is used to treat chronic asthma prophylactically?",
+            "options": ["Beclomethasone", "Salbutamol", "Ipratropium", "Theophylline"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 66,
+            "question": "Which of the following drugs is a 5-alpha reductase inhibitor?",
+            "options": ["Finasteride", "Tamsulosin", "Sildenafil", "Dutasteride"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 67,
+            "question": "Which of the following drugs is used to treat opioid dependence?",
+            "options": ["Methadone", "Naloxone", "Buprenorphine", "Tramadol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 68,
+            "question": "Which of the following is a side effect of digoxin toxicity?",
+            "options": ["Visual disturbances", "Tachypnea", "Constipation", "Hyperkalemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 69,
+            "question": "Which of the following drugs is used to treat generalized anxiety disorder?",
+            "options": ["Buspirone", "Haloperidol", "Diazepam", "Amitriptyline"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 70,
+            "question": "Which of the following is a long-acting insulin analog?",
+            "options": ["Insulin glargine", "Insulin lispro", "Insulin aspart", "Insulin regular"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 71,
+            "question": "Which of the following drugs is used to treat rheumatoid arthritis by inhibiting TNF-alpha?",
+            "options": ["Etanercept", "Methotrexate", "Hydroxychloroquine", "Sulfasalazine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 72,
+            "question": "Which of the following is a common side effect of aminophylline?",
+            "options": ["Tachycardia", "Bradycardia", "Constipation", "Hypoglycemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 73,
+            "question": "Which of the following drugs is used to treat hypertension in pregnancy?",
+            "options": ["Methyldopa", "Lisinopril", "Losartan", "Amlodipine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 74,
+            "question": "Which of the following is a side effect of chronic amiodarone use?",
+            "options": ["Pulmonary fibrosis", "Tachycardia", "Hypoglycemia", "Constipation"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 75,
+            "question": "Which of the following drugs is used to treat leprosy?",
+            "options": ["Dapsone", "Rifampicin", "Isoniazid", "Ethambutol"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 76,
+            "question": "Which of the following is a side effect of methotrexate?",
+            "options": ["Hepatotoxicity", "Nephrotoxicity", "Ototoxicity", "Cardiotoxicity"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 77,
+            "question": "Which of the following drugs is used to treat trichomoniasis?",
+            "options": ["Metronidazole", "Tinidazole", "Albendazole", "Mebendazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 78,
+            "question": "Which of the following drugs is used to treat hypertension by blocking angiotensin II receptors?",
+            "options": ["Losartan", "Enalapril", "Amlodipine", "Hydrochlorothiazide"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 79,
+            "question": "Which of the following is a side effect of valproic acid?",
+            "options": ["Hepatotoxicity", "Nephrotoxicity", "Ototoxicity", "Myelosuppression"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 80,
+            "question": "Which of the following drugs is used to treat fungal infections?",
+            "options": ["Fluconazole", "Ciprofloxacin", "Rifampicin", "Metronidazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 81,
+            "question": "Which of the following drugs is used to treat scabies?",
+            "options": ["Permethrin", "Albendazole", "Ivermectin", "Metronidazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 82,
+            "question": "Which of the following is a common side effect of isoniazid?",
+            "options": ["Peripheral neuropathy", "Ototoxicity", "Constipation", "Tachycardia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 83,
+            "question": "Which of the following drugs is used to treat toxoplasmosis?",
+            "options": ["Pyrimethamine", "Albendazole", "Metronidazole", "Tinidazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 84,
+            "question": "Which of the following is a side effect of rifampicin?",
+            "options": ["Orange-colored urine", "Constipation", "Tinnitus", "Hypoglycemia"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 85,
+            "question": "Which of the following drugs is used to treat helminthic infections?",
+            "options": ["Albendazole", "Metronidazole", "Ciprofloxacin", "Fluconazole"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 86,
+            "question": "Which of the following is a side effect of amphotericin B?",
+            "options": ["Nephrotoxicity", "Hepatotoxicity", "Ototoxicity", "Myelosuppression"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 87,
+            "question": "Which of the following drugs is used to treat herpes simplex virus infections?",
+            "options": ["Acyclovir", "Oseltamivir", "Zidovudine", "Ribavirin"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 88,
+            "question": "Which of the following is a side effect of zidovudine?",
+            "options": ["Bone marrow suppression", "Nephrotoxicity", "Ototoxicity", "Hepatotoxicity"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 89,
+            "question": "Which of the following drugs is used to treat influenza?",
+            "options": ["Oseltamivir", "Acyclovir", "Ribavirin", "Zidovudine"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 90,
+            "question": "Which of the following is a side effect of chloroquine?",
+            "options": ["Retinopathy", "Nephrotoxicity", "Ototoxicity", "Myelosuppression"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "qno": 91,
+            "question": "Which medication is most likely to cause weight gain as a side effect?",
+            "options": ["Lithium", "Carbamazepine", "Olanzapine", "Lamotrigine"],
+            "correctAnswerIndex": 2
+        }
+    ]
+}

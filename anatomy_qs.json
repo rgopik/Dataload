@@ -1,576 +1,691 @@
 {
   "anatomy_questions": [
     {
+      "qno": 1,
       "question": "Which of the following is the smallest bone in the human body?",
       "options": ["Stapes", "Femur", "Tibia", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 2,
       "question": "How many bones are there in the adult human skeleton?",
       "options": ["206", "208", "210", "204"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 3,
       "question": "Which part of the brain controls voluntary muscle movements?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 4,
       "question": "What is the longest bone in the human body?",
       "options": ["Femur", "Tibia", "Humerus", "Fibula"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 5,
       "question": "Which organ is responsible for filtering blood and producing urine?",
       "options": ["Kidney", "Liver", "Pancreas", "Spleen"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 6,
       "question": "Which of the following muscles is responsible for chewing?",
       "options": ["Masseter", "Deltoid", "Trapezius", "Biceps brachii"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 7,
       "question": "Which part of the eye is responsible for detecting light?",
       "options": ["Retina", "Cornea", "Iris", "Lens"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 8,
       "question": "Which structure connects muscles to bones?",
       "options": ["Tendons", "Ligaments", "Cartilage", "Fascia"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 9,
       "question": "Which of the following is part of the axial skeleton?",
       "options": ["Skull", "Femur", "Clavicle", "Scapula"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 10,
       "question": "Which chamber of the heart pumps oxygenated blood to the body?",
       "options": ["Left ventricle", "Right atrium", "Right ventricle", "Left atrium"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 11,
       "question": "Which of the following bones forms the forehead?",
       "options": ["Frontal bone", "Parietal bone", "Temporal bone", "Occipital bone"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 12,
       "question": "Which of the following structures separates the thoracic and abdominal cavities?",
       "options": ["Diaphragm", "Liver", "Stomach", "Pleura"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 13,
       "question": "Which part of the brain regulates balance and coordination?",
       "options": ["Cerebellum", "Cerebrum", "Medulla oblongata", "Hypothalamus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 14,
       "question": "Which of the following is NOT part of the small intestine?",
       "options": ["Cecum", "Duodenum", "Jejunum", "Ileum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 15,
       "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
       "options": ["Pulmonary vein", "Pulmonary artery", "Aorta", "Superior vena cava"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 16,
       "question": "Which of the following bones is part of the pelvic girdle?",
       "options": ["Ilium", "Scapula", "Clavicle", "Sternum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 17,
       "question": "Which of the following is the functional unit of the kidney?",
       "options": ["Nephron", "Glomerulus", "Loop of Henle", "Renal pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 18,
       "question": "Which of the following arteries supplies blood to the brain?",
       "options": ["Carotid artery", "Femoral artery", "Brachial artery", "Coronary artery"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 19,
       "question": "Which of the following is the outermost layer of the skin?",
       "options": ["Epidermis", "Dermis", "Hypodermis", "Subcutaneous tissue"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 20,
       "question": "Which of the following bones is located in the upper limb?",
       "options": ["Radius", "Tibia", "Fibula", "Calcaneus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 21,
       "question": "Which of the following bones is part of the axial skeleton?",
       "options": ["Sternum", "Femur", "Clavicle", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 22,
       "question": "Which of the following structures is responsible for gas exchange in the lungs?",
       "options": ["Alveoli", "Bronchi", "Trachea", "Pleura"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 23,
       "question": "Which of the following is the largest part of the human brain?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Thalamus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 24,
       "question": "Which of the following bones is found in the lower limb?",
       "options": ["Tibia", "Radius", "Ulna", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 25,
       "question": "Which of the following is the main artery that supplies blood to the body?",
       "options": ["Aorta", "Pulmonary artery", "Carotid artery", "Femoral artery"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 26,
       "question": "Which of the following is NOT a function of the liver?",
       "options": ["Insulin production", "Detoxification", "Bile production", "Storage of glycogen"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 27,
       "question": "Which of the following bones is part of the skull?",
       "options": ["Occipital bone", "Scapula", "Mandible", "Pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 28,
       "question": "Which of the following structures is part of the female reproductive system?",
       "options": ["Ovary", "Prostate", "Seminal vesicle", "Vas deferens"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 29,
       "question": "Which of the following is the innermost layer of the heart wall?",
       "options": ["Endocardium", "Myocardium", "Epicardium", "Pericardium"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 30,
       "question": "Which of the following structures connects the two hemispheres of the brain?",
       "options": ["Corpus callosum", "Thalamus", "Hypothalamus", "Cerebellum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 31,
       "question": "Which of the following bones forms the base of the skull?",
       "options": ["Occipital bone", "Frontal bone", "Temporal bone", "Parietal bone"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 32,
       "question": "Which of the following structures is part of the respiratory system?",
       "options": ["Trachea", "Esophagus", "Aorta", "Thymus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 33,
       "question": "Which of the following is the largest gland in the human body?",
       "options": ["Liver", "Pancreas", "Thyroid", "Adrenal gland"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 34,
       "question": "Which of the following bones is part of the vertebral column?",
       "options": ["Lumbar vertebra", "Clavicle", "Scapula", "Sternum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 35,
       "question": "Which of the following is a function of the spleen?",
       "options": ["Filter blood", "Produce insulin", "Store bile", "Secrete digestive enzymes"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 36,
       "question": "Which of the following is the main function of red blood cells?",
       "options": ["Transport oxygen", "Fight infection", "Clot blood", "Produce hormones"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 37,
       "question": "Which of the following bones is part of the pectoral girdle?",
       "options": ["Clavicle", "Femur", "Tibia", "Pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 38,
       "question": "Which of the following structures is part of the central nervous system?",
       "options": ["Spinal cord", "Sciatic nerve", "Brachial plexus", "Radial nerve"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 39,
       "question": "Which of the following is the primary muscle used in breathing?",
       "options": ["Diaphragm", "Intercostal muscles", "Rectus abdominis", "Latissimus dorsi"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 40,
       "question": "Which of the following structures is responsible for producing cerebrospinal fluid?",
       "options": ["Choroid plexus", "Corpus callosum", "Thalamus", "Pineal gland"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 41,
       "question": "Which of the following bones is part of the lower limb?",
       "options": ["Femur", "Humerus", "Radius", "Ulna"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 42,
       "question": "Which of the following structures is part of the male reproductive system?",
       "options": ["Vas deferens", "Fallopian tube", "Ovary", "Uterus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 43,
       "question": "Which of the following is the largest part of the small intestine?",
       "options": ["Ileum", "Duodenum", "Cecum", "Colon"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 44,
       "question": "Which of the following bones articulates with the mandible?",
       "options": ["Temporal bone", "Frontal bone", "Occipital bone", "Parietal bone"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 45,
       "question": "Which of the following is the main function of platelets?",
       "options": ["Blood clotting", "Oxygen transport", "Immune defense", "Hormone production"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 46,
       "question": "Which of the following structures is part of the lymphatic system?",
       "options": ["Spleen", "Pancreas", "Liver", "Gallbladder"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 47,
       "question": "Which of the following is the outermost meningeal layer?",
       "options": ["Dura mater", "Arachnoid mater", "Pia mater", "Choroid plexus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 48,
       "question": "Which of the following bones is located in the wrist?",
       "options": ["Scaphoid", "Patella", "Calcaneus", "Talus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 49,
       "question": "Which of the following structures is responsible for hearing?",
       "options": ["Cochlea", "Semicircular canals", "Eustachian tube", "Vestibule"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 50,
       "question": "Which of the following is the main function of the large intestine?",
       "options": ["Water absorption", "Protein digestion", "Fat emulsification", "Hormone secretion"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 51,
       "question": "Which of the following bones is located in the ankle?",
       "options": ["Talus", "Scaphoid", "Capitate", "Hamate"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 52,
       "question": "Which of the following structures is part of the endocrine system?",
       "options": ["Thyroid gland", "Spleen", "Gallbladder", "Appendix"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 53,
       "question": "Which of the following is the main function of the pancreas?",
       "options": ["Produce insulin", "Store bile", "Filter blood", "Absorb nutrients"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 54,
       "question": "Which of the following is the largest part of the large intestine?",
       "options": ["Colon", "Cecum", "Rectum", "Appendix"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 55,
       "question": "Which of the following bones is part of the facial skeleton?",
       "options": ["Maxilla", "Occipital bone", "Temporal bone", "Parietal bone"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 56,
       "question": "Which of the following structures is responsible for regulating body temperature?",
       "options": ["Hypothalamus", "Thalamus", "Cerebellum", "Medulla oblongata"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 57,
       "question": "Which of the following is the main function of the lymph nodes?",
       "options": ["Filter lymph", "Produce insulin", "Store bile", "Absorb nutrients"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 58,
       "question": "Which of the following bones is part of the thoracic cage?",
       "options": ["Rib", "Clavicle", "Scapula", "Pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 59,
       "question": "Which of the following structures is part of the urinary system?",
       "options": ["Ureter", "Esophagus", "Pancreas", "Gallbladder"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 60,
       "question": "Which of the following is the main function of the cerebellum?",
       "options": ["Coordination and balance", "Memory storage", "Hormone production", "Vision processing"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 61,
       "question": "Which of the following bones is part of the human skull?",
       "options": ["Parietal bone", "Scapula", "Clavicle", "Pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 62,
       "question": "Which of the following structures is part of the digestive system?",
       "options": ["Esophagus", "Trachea", "Bronchus", "Larynx"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 63,
       "question": "Which of the following is the main function of the white blood cells?",
       "options": ["Fight infection", "Transport oxygen", "Clot blood", "Produce hormones"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 64,
       "question": "Which of the following bones is located in the foot?",
       "options": ["Calcaneus", "Scaphoid", "Capitate", "Hamate"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 65,
       "question": "Which of the following structures is part of the auditory system?",
       "options": ["Cochlea", "Cornea", "Retina", "Lens"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 66,
       "question": "Which of the following is the main function of the adrenal glands?",
       "options": ["Produce hormones", "Filter blood", "Store bile", "Absorb nutrients"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 67,
       "question": "Which of the following bones is part of the upper limb?",
       "options": ["Humerus", "Tibia", "Fibula", "Femur"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 68,
       "question": "Which of the following structures is part of the visual pathway?",
       "options": ["Optic nerve", "Auditory nerve", "Vagus nerve", "Facial nerve"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 69,
       "question": "Which of the following is the main function of the hypothalamus?",
       "options": ["Regulate homeostasis", "Control balance", "Produce insulin", "Filter lymph"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 70,
       "question": "Which of the following bones is part of the hand?",
       "options": ["Metacarpal", "Metatarsal", "Tarsal", "Phalanx (foot)"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 71,
       "question": "Which of the following bones is part of the vertebral column?",
       "options": ["Cervical vertebra", "Clavicle", "Scapula", "Sternum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 72,
       "question": "Which of the following structures is part of the female reproductive system?",
       "options": ["Fallopian tube", "Prostate", "Seminal vesicle", "Vas deferens"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 73,
       "question": "Which of the following is the main function of the retina?",
       "options": ["Detect light", "Produce tears", "Control eye movement", "Regulate pupil size"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 74,
       "question": "Which of the following bones is part of the pelvic girdle?",
       "options": ["Ischium", "Scapula", "Clavicle", "Sternum"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 75,
       "question": "Which of the following structures is part of the peripheral nervous system?",
       "options": ["Spinal nerve", "Cerebellum", "Thalamus", "Medulla oblongata"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 76,
       "question": "Which of the following is the main function of the liver?",
       "options": ["Detoxification", "Oxygen transport", "Hormone secretion", "Nerve conduction"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 77,
       "question": "Which of the following bones is located in the forearm?",
       "options": ["Ulna", "Tibia", "Femur", "Fibula"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 78,
       "question": "Which of the following structures is part of the immune system?",
       "options": ["Thymus", "Pancreas", "Gallbladder", "Appendix"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 79,
       "question": "Which of the following is the main function of the pituitary gland?",
       "options": ["Regulate other endocrine glands", "Filter blood", "Produce bile", "Store calcium"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 80,
       "question": "Which of the following bones is part of the rib cage?",
       "options": ["Sternum", "Clavicle", "Scapula", "Pelvis"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 81,
       "question": "Which of the following structures is part of the male reproductive system?",
       "options": ["Seminal vesicle", "Fallopian tube", "Ovary", "Uterus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 82,
       "question": "Which of the following is the main function of the cerebrum?",
       "options": ["Control voluntary actions", "Balance and coordination", "Regulate breathing", "Filter blood"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 83,
       "question": "Which of the following bones is part of the axial skeleton?",
       "options": ["Sacrum", "Femur", "Clavicle", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 84,
       "question": "Which of the following structures is part of the respiratory system?",
       "options": ["Bronchi", "Esophagus", "Aorta", "Thymus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 85,
       "question": "Which of the following is the main function of the medulla oblongata?",
       "options": ["Regulate heartbeat and breathing", "Control vision", "Produce hormones", "Filter blood"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 86,
       "question": "Which of the following bones is located in the lower limb?",
       "options": ["Fibula", "Radius", "Ulna", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 87,
       "question": "Which of the following structures is part of the digestive system?",
       "options": ["Stomach", "Trachea", "Larynx", "Bronchus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 88,
       "question": "Which of the following is the main function of the spinal cord?",
       "options": ["Transmit nerve impulses", "Produce red blood cells", "Store calcium", "Regulate hormones"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 89,
       "question": "Which of the following bones is part of the facial skeleton?",
       "options": ["Zygomatic bone", "Occipital bone", "Temporal bone", "Parietal bone"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 90,
       "question": "Which of the following structures is part of the circulatory system?",
       "options": ["Aorta", "Trachea", "Esophagus", "Bronchus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 91,
       "question": "Which of the following is the structural and functional unit of the nervous system?",
       "options": ["Neuron", "Axon", "Dendrite", "Glial cell"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 92,
       "question": "Which of the following bones is part of the upper limb?",
       "options": ["Radius", "Tibia", "Fibula", "Femur"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 93,
       "question": "Which of the following structures is part of the urinary system?",
       "options": ["Bladder", "Liver", "Pancreas", "Gallbladder"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 94,
       "question": "Which of the following is the main function of the lungs?",
       "options": ["Gas exchange", "Digest food", "Filter blood", "Produce hormones"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 95,
       "question": "Which of the following bones is part of the hand?",
       "options": ["Phalanges", "Tarsals", "Metatarsals", "Calcaneus"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 96,
       "question": "Which of the following structures is part of the cardiovascular system?",
       "options": ["Heart", "Lung", "Liver", "Kidney"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 97,
       "question": "Which of the following is the main function of the stomach?",
       "options": ["Digest proteins", "Absorb water", "Produce insulin", "Filter toxins"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 98,
       "question": "Which of the following bones is part of the axial skeleton?",
       "options": ["Vertebra", "Femur", "Clavicle", "Scapula"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 99,
       "question": "Which of the following structures is part of the lymphatic system?",
       "options": ["Lymph node", "Pancreas", "Gallbladder", "Appendix"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 100,
       "question": "Which of the following is the main function of the small intestine?",
       "options": ["Absorb nutrients", "Store bile", "Filter blood", "Produce hormones"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 101,
       "question": "Which of the following is NOT one of the four chambers of the human heart?",
       "options": ["Right atrium", "Left atrium", "Superior vena cava", "Left ventricle"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 102,
       "question": "The cerebellum is responsible primarily for:",
       "options": ["Vision processing", "Motor coordination and balance", "Higher cognitive functions", "Language processing"],
       "correctAnswerIndex": 1
     },
     {
+      "qno": 103,
       "question": "Which structure connects muscle to bone?",
       "options": ["Ligament", "Tendon", "Cartilage", "Fascia"],
       "correctAnswerIndex": 1
     },
     {
+      "qno": 104,
       "question": "The smallest bone in the human body is located in the:",
       "options": ["Ear", "Nose", "Finger", "Toe"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 105,
       "question": "Which of the following is NOT part of the digestive system?",
       "options": ["Pancreas", "Gallbladder", "Thyroid", "Small intestine"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 106,
       "question": "The largest internal organ in the human body is the:",
       "options": ["Liver", "Brain", "Lungs", "Large intestine"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 107,
       "question": "The patella is commonly known as the:",
       "options": ["Shoulder blade", "Kneecap", "Collarbone", "Wrist bone"],
       "correctAnswerIndex": 1
     },
     {
+      "qno": 108,
       "question": "Which gland produces insulin?",
       "options": ["Thyroid", "Adrenal", "Pancreas", "Pituitary"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 109,
       "question": "Which part of the brain is responsible for regulating basic life functions like breathing and heart rate?",
       "options": ["Cerebrum", "Cerebellum", "Brainstem", "Corpus callosum"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 110,
       "question": "The exchange of oxygen and carbon dioxide occurs in the:",
       "options": ["Bronchi", "Trachea", "Alveoli", "Pharynx"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 111,
       "question": "Which of the following is NOT one of the layers of the skin?",
       "options": ["Epidermis", "Dermis", "Hypodermis", "Endodermis"],
       "correctAnswerIndex": 3
     },
     {
+      "qno": 112,
       "question": "The malleus, incus, and stapes are bones found in the:",
       "options": ["Hand", "Foot", "Ear", "Spine"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 113,
       "question": "Which blood vessels carry blood away from the heart?",
       "options": ["Arteries", "Veins", "Capillaries", "Venules"],
       "correctAnswerIndex": 0
     },
     {
+      "qno": 114,
       "question": "The medulla oblongata is part of the:",
       "options": ["Digestive system", "Respiratory system", "Brain", "Heart"],
       "correctAnswerIndex": 2
     },
     {
+      "qno": 115,
       "question": "How many pairs of ribs does a typical adult human have?",
       "options": ["10", "12", "14", "16"],
       "correctAnswerIndex": 1
