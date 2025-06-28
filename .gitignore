@@ -1,0 +1,11 @@
+# Ignore Google service account credentials and other secrets
+serviceAccount.json
+*.secret.json
+# Ignore IDE and build files
+.idea/
+*.iml
+.gradle/
+build/
+# Ignore OS files
+.DS_Store
+Thumbs.db
