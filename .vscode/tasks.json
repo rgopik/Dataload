@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Kotlin Firestore Uploader",
+			"type": "shell",
+			"command": "./gradlew build",
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
