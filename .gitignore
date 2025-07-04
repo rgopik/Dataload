@@ -9,3 +9,11 @@ build/
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
+# Ignore large build artifacts
+*.tar
+*.zip
+*.jar
+*.class
+*.log
+*.tmp
