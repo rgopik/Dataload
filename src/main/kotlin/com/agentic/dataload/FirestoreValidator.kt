@@ -96,6 +96,8 @@ object FirestoreValidator {
         if (sortedQnos != expectedQnos.toList()) {
             hasDuplicates = true
         }
+        
+        println("\n--- Validation Summary ---")
 
         if (!hasDuplicates) {
             println("Validation passed: No duplicate qno, all qno in sequence, no duplicate questions.")
@@ -107,7 +109,6 @@ object FirestoreValidator {
         val duplicateQuestions = questionTextCounts.filter { it.value > 1 }
         val duplicateQnos = qnoCountMap.filter { it.value > 1 }
 
-        println("\n--- Validation Summary ---")
         if (countSummaryMsg != null) println(countSummaryMsg)
         if (missingQnoOrQuestionDocs.isNotEmpty()) {
             missingQnoOrQuestionDocs.forEach { docId ->
