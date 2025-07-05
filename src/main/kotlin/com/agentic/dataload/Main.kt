@@ -14,7 +14,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 
 @Serializable
-data class Question(val qno: Int, val cls:String, val question: String, val options: List<String>, val correctAnswerIndex: Int)
+data class Question(val qno: Int, val board:String, val cls:String, val chapter:String, val question: String, val options: List<String>, val correctAnswerIndex: Int)
 
 fun main(args: Array<String>) {
     if (args.isEmpty()) {
@@ -25,17 +25,18 @@ fun main(args: Array<String>) {
     val arg2 = if (args.size > 1 && args[1] != "null" && args[1].isNotEmpty()) args[1] else null
     val collectionName = if (args.size > 2 && args[2] != "null" && args[2].isNotEmpty()) args[2] else null
     val documentId = if (args.size > 3 && args[3] != "null" && args[3].isNotEmpty()) args[3] else null
+    val chapter = if (arg2 == null && args.size > 3 && args[3] != "null" && args[3].isNotEmpty()) args[3] else null
     val modValue = if (args.size > 4 && args[4] != "null" && args[4].isNotEmpty()) args[4] else null
     require(File(serviceAccountPath).exists()) { "Service account file not found: $serviceAccountPath" }
 
     if (arg2 == null) {
-        // Validate Firestore collection
+        // Validate Firestore collection, possibly for a specific chapter
         if (collectionName == null) {
             println("Either questions file or collection name must be provided.")
             return
         }
         FirestoreValidator.initFirebase(serviceAccountPath)
-        FirestoreValidator.validateQuestionsCollection(collectionName)
+        FirestoreValidator.validateQuestionsCollection(collectionName, chapter)
         return
     }
 
@@ -61,23 +62,33 @@ fun main(args: Array<String>) {
     }
 
     if (arg2 == "F5" && collectionName != null) {
-        // Auto resequence qno in Firestore collection
+        // Auto resequence qno in Firestore collection, chapter is mandatory
+        if (args.size < 4 || args[3] == "null" || args[3].isEmpty()) {
+            println("Error: Chapter argument is required for resequencing. Usage: <serviceAccount.json> F5 <collectionName> <chapterName>")
+            return
+        }
+        val chapterArg = args[3]
         FirestoreValidator.initFirebase(serviceAccountPath)
         val db: Firestore = FirestoreClient.getFirestore()
         val docs = db.collection(collectionName).get().get().documents
+        val filteredDocs = docs.filter { doc ->
+            val chapter = doc.getString("chapter")
+            chapter != null && chapter.equals(chapterArg, ignoreCase = true)
+        }
         // Sort by qno (if present), else by document id
-        val docsWithQno = docs.mapNotNull { doc ->
+        val docsWithQno = filteredDocs.mapNotNull { doc ->
             val qno = doc.getLong("qno")?.toInt()
             if (qno != null) Pair(doc, qno) else null
         }.sortedBy { it.second }
-        println("Resequencing qno for ${docsWithQno.size} documents in '$collectionName'...")
+        val target = "chapter '$chapterArg'"
+        println("Resequencing qno for ${docsWithQno.size} documents in $target...")
         for ((idx, pair) in docsWithQno.withIndex()) {
             val (doc, _) = pair
             val newQno = idx + 1
             doc.reference.update("qno", newQno).get()
             println("Updated document ${doc.id} to qno $newQno")
         }
-        println("All qno resequenced for collection '$collectionName'.")
+        println("All qno resequenced for $target.")
         return
     }
 
@@ -102,7 +113,9 @@ fun main(args: Array<String>) {
     for ((i, q) in questions.withIndex()) {
         val doc = hashMapOf(
             "qno" to q.qno,
+            "board" to q.board,
             "cls" to q.cls,
+            "chapter" to q.chapter,
             "question" to q.question,
             "options" to q.options,
             "correctAnswerIndex" to q.correctAnswerIndex
