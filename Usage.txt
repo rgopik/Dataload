@@ -1,16 +1,48 @@
 To load a file
-./gradlew run --args="serviceAccount.json file.json
+./gradlew run --args="serviceAccount.json hindi7_qs.json"
 
 
 To validate a collection
-./gradlew run --args="serviceAccount.json null anatomy_questions"
+ ./gradlew run --args="serviceAccount.json null Class_7_Mathematics  Algebra"
 
 To delete a document
-./gradlew run --args="serviceAccount.json Del anatomy_questions A7qslKhAQ2NBte3DFRcw"
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics  WtNU4SqLnTgbTQQzsM8Q"
 
 To resequence
-./gradlew run --args="serviceAccount.json F5 anatomy_questions"
+./gradlew run --args="serviceAccount.json F5 Class_7_Mathematics  Geometry"
 
 To update metadata
-./gradlew run --args="serviceAccount.json Mod metadata anatomy_questions 102"
+./gradlew run --args="serviceAccount.json Mod metadata Class_7_Mathematics_Geometry 72"
 
+
+
+
+
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics TbzZoAFw4TCRFlPDau1Z";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics wd0LOVhDEhXR0sHmlpQA";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics mmcHDz4f8Ny2EWQ0d6iG";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics imjehywm8g15tfcTyxHF";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics VqYCSlMiPBWG3aRPYvN5";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics MHMceaRIdP4vxs9tKb78";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics JnegT0SjGHyvHWwXgjhG";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics XIeJm3jDgFUUuNe9965p";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics p9VtJJWaLoJ01KTO6FRr";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics HX9mmDNILa2fb7xR7U1v";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics jjEozaQyf8z2VoaoazzN";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics hGlfnKPn9WIjpVuwNHxK";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics mrlaLeHxExcc01fceVhB";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics UfRrSwyBZW2cuCPxrDKa";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics I1Vz0B3Yb4rh3LrS2jrz";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics p5bQlBL2hnliqXwPqw2V";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics l6jJbg0OHPgukwcq4biT";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics N1QYZzo1mtQybuewgZY5";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics UfziPtnYFtzGplI4nIKR";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics WOdIGWUUX3DzgwZi2sDu";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics RqfEFe2NhpLSLo4k3gLf";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics ZTNInToBH5eF9vG2LTsd";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics ry11ePCrgA1a7lRxFVW4";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics xWVPOMulGHr85HbOZ0Cv";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics deqJJkrgnHOqOw8Je2hc";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics vNGva6LyNdzi9TNBPsYb";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics o0LCEkiFwGjVgXM5isck";
+./gradlew run --args="serviceAccount.json Del Class_7_Mathematics vfpgbKeVuys5pYRvVhGX";

@@ -1,214 +1,34 @@
 {
  "Class_7_Hindi":[
-  {
-    "qno": 1,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता 'हम पंछी उन्मुक्त गगन के' के रचयिता कौन हैं?",
-    "options": ["महादेवी वर्मा", "शिवमंगल सिंह सुमन", "सर्वेश्वर दयाल सक्सेना", "रामधारी सिंह दिनकर"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 2,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "'हम पंछी उन्मुक्त गगन के' कविता में पक्षी किस चीज़ की प्रतीक हैं?",
-    "options": ["दुख", "क्रोध", "स्वतंत्रता", "भय"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 3,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस प्रकार का जल पीना चाहते हैं?",
-    "options": ["नल का जल", "वर्षा का जल", "नदी का बहता जल", "पिंजरे की कटोरी का जल"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 4,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "'कनक-तीलियों से टकराकर पुलकित पंख टूट जाएंगे' का भाव क्या है?",
-    "options": ["पक्षी उड़ने से डरते हैं", "पिंजरे की सुंदरता पक्षियों को पसंद है", "पिंजरे की सलाखें पक्षियों की उड़ान रोकती हैं", "पक्षी पिंजरे में गाना गाते हैं"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 5,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस चीज़ को अधिक पसंद करते हैं?",
-    "options": ["कनक कटोरी की मैदा", "कटुक निबौरी", "पिंजरे की सुविधा", "बंद वातावरण"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 6,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस प्रकार की निबौरी खाना पसंद करते हैं?",
-    "options": ["मीठी", "कटुक", "कच्ची", "पकी"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 7,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘कनक-तीलियों’ का अर्थ क्या है?",
-    "options": ["सोने की सलाखें", "कांसे की छड़ें", "लोहे की जंजीर", "तांबे की तारें"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "qno": 8,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘स्वर्ण-श्रृंखला’ किसका प्रतीक है?",
-    "options": ["धन का", "बांधने का", "सजावट का", "स्वतंत्रता का"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 9,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘तनती साँसों की डोरी’ का भावार्थ क्या है?",
-    "options": ["जीवन का अंत", "सांसों की लंबाई", "प्राणों की डोर", "स्वस्थ जीवन"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 10,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस जल को पीना चाहते हैं?",
-    "options": ["झील का जल", "पिंजरे की कटोरी का जल", "नदी का बहता जल", "कुएँ का जल"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 11,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता का मुख्य विषय क्या है?",
-    "options": ["प्रकृति का सौंदर्य", "पक्षियों की उड़ान", "स्वतंत्रता की भावना", "पिंजरे की सुंदरता"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 12,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘कटुक निबौरी’ किसका प्रतीक है?",
-    "options": ["कठिनाइयों का", "मिठास का", "भोजन का", "प्रेम का"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "qno": 13,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस टहनी पर झूलना चाहते हैं?",
-    "options": ["नीचे की", "मध्यम ऊँचाई की", "ऊँची", "झुकी हुई"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 14,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘पुलकित पंख’ का अर्थ क्या है?",
-    "options": ["गंदे पंख", "काँपते पंख", "उत्साहित पंख", "कटे हुए पंख"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 15,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किससे टकराकर घायल हो सकते हैं?",
-    "options": ["दरों से", "कनक-तीलियों से", "दूसरे पक्षियों से", "पानी से"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 16,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता किस विधा से संबंधित है?",
-    "options": ["निबंध", "कहानी", "कविता", "नाटक"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 17,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किस प्रकार की उड़ान भरना चाहते हैं?",
-    "options": ["सीधी", "धीमी", "उन्मुक्त", "तेज़"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 18,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता में किस रस की प्रधानता है?",
-    "options": ["वीर रस", "श्रृंगार रस", "शांत रस", "वीप्सा रस"],
-    "correctAnswerIndex": 3
-  },
-  {
-    "qno": 19,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘पिंजरे की कटोरी’ किसका प्रतीक है?",
-    "options": ["सुविधा का", "बांधने का", "स्वतंत्रता का", "प्रेम का"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 20,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किसे अधिक महत्व देते हैं?",
-    "options": ["भोजन को", "सुविधा को", "स्वतंत्रता को", "संगीत को"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 21,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता में पक्षी किसके प्रतीक हैं?",
-    "options": ["बच्चों के", "कवियों के", "मानव आत्मा के", "राजाओं के"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 22,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘उन्मुक्त’ शब्द का विलोम क्या है?",
-    "options": ["बंधा हुआ", "स्वतंत्र", "खुला", "प्रसन्न"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "qno": 23,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता में पक्षी किससे डरते हैं?",
-    "options": ["पानी से", "पिंजरे से", "दूसरे पक्षियों से", "आकाश से"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "qno": 24,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘स्वर्ण-श्रृंखला’ में कौन सा अलंकार है?",
-    "options": ["रूपक", "उपमा", "अनुप्रास", "यमक"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 25,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता में कौन सी भावना प्रमुख है?",
-    "options": ["क्रोध", "प्रेम", "दया", "स्वतंत्रता"],
-    "correctAnswerIndex": 3
-  },
-  {
-    "qno": 26,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘कटुक निबौरी’ में कौन सा अलंकार है?",
-    "options": ["रूपक", "यमक", "अनुप्रास", "उपमा"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "qno": 27,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "कविता में पक्षी किससे टकराकर पंख तोड़ बैठते हैं?",
-    "options": ["कनक-तीलियों से", "दरों से", "दूसरे पक्षियों से", "पानी की धार से"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "qno": 28,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘हम पंछी उन्मुक्त गगन के’ कविता में पक्षी किसका आनंद लेना चाहते हैं?",
-    "options": ["प्रकृति का", "पिंजरे का", "भोजन का", "नींद का"],
-    "correctAnswerIndex": 0
-  },
-  {
-    "qno": 29,
-    "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-    "question": "‘या तो क्षितिज मिलन बन जाता’ में ‘क्षितिज’ का अर्थ क्या है?",
-    "options": ["धरती", "आकाश", "जहाँ धरती और आकाश मिलते हैं", "सूर्य"],
-    "correctAnswerIndex": 2
-  },
-{
-  "qno": 30,
-  "board":"NCERT", "cls": "7","chapter":"Chapter 1",
-  "question": "कविता में पक्षी किसके लिए अपने प्राण देने को तैयार हैं?",
-  "options": ["भोजन के लिए", "सुविधा के लिए", "स्वतंत्रता के लिए", "पिंजरे के लिए"],
-  "correctAnswerIndex": 2
-}
-]
+{"qno": 1, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "‘मिठाईवाला’ पाठ का मुख्य पात्र कौन है?", "options": ["मोची", "कवि", "मिठाई बेचने वाला", "राजा"], "correctAnswerIndex": 2},
+{"qno": 2, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की सबसे बड़ी विशेषता क्या थी?", "options": ["धनवान होना", "क्रोधित स्वभाव", "दयालुता और सादगी", "राजनीति में रुचि"], "correctAnswerIndex": 2},
+{"qno": 3, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान कहाँ थी?", "options": ["बाजार में", "गाँव के बाहर", "स्कूल के पास", "रेलवे स्टेशन पर"], "correctAnswerIndex": 0},
+{"qno": 4, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले का व्यवहार बच्चों के प्रति कैसा था?", "options": ["कठोर", "उदासीन", "स्नेहपूर्ण", "डरावना"], "correctAnswerIndex": 2},
+{"qno": 5, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ कैसी होती थीं?", "options": ["बासी", "महँगी", "स्वादिष्ट और सस्ती", "कम मात्रा में"], "correctAnswerIndex": 2},
+{"qno": 6, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "बच्चे मिठाईवाले को क्यों पसंद करते थे?", "options": ["वह कहानियाँ सुनाता था", "वह मिठाई मुफ्त देता था", "वह स्नेह से बात करता था", "वह खेल खिलाता था"], "correctAnswerIndex": 2},
+{"qno": 7, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की वेशभूषा कैसी थी?", "options": ["राजसी", "साधारण", "आधुनिक", "धार्मिक"], "correctAnswerIndex": 1},
+{"qno": 8, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "पाठ में मिठाईवाले की तुलना किससे की गई है?", "options": ["राजा से", "संत से", "कवि से", "पंडित से"], "correctAnswerIndex": 1},
+{"qno": 9, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान पर कौन-कौन आते थे?", "options": ["केवल अमीर लोग", "केवल बच्चे", "हर वर्ग के लोग", "केवल व्यापारी"], "correctAnswerIndex": 2},
+{"qno": 10, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयों में क्या विशेषता थी?", "options": ["केवल रंगीन होती थीं", "स्वादिष्ट और सस्ती होती थीं", "केवल बच्चों के लिए होती थीं", "केवल त्योहारों पर मिलती थीं"], "correctAnswerIndex": 1},
+{"qno": 11, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान किस चीज़ की प्रतीक है?", "options": ["धन की", "सत्ता की", "स्नेह और सेवा की", "राजनीति की"], "correctAnswerIndex": 2},
+{"qno": 12, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की बातों में क्या विशेषता थी?", "options": ["गंभीरता", "डर", "ममता और अपनापन", "गुस्सा"], "correctAnswerIndex": 2},
+{"qno": 13, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान पर बच्चों को क्या अनुभव होता था?", "options": ["डर", "खुशी और अपनापन", "उदासी", "अजनबीपन"], "correctAnswerIndex": 1},
+{"qno": 14, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ किससे बनी होती थीं?", "options": ["केवल दूध से", "प्राकृतिक और शुद्ध सामग्री से", "केमिकल से", "बाजार से खरीदी हुई"], "correctAnswerIndex": 1},
+{"qno": 15, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले का जीवन किस प्रकार का था?", "options": ["भव्य", "साधारण और संतोषजनक", "दुखद", "राजसी"], "correctAnswerIndex": 1},
+{"qno": 16, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान किस बात का प्रतीक बन गई थी?", "options": ["धन का", "स्नेह और सेवा का", "राजनीति का", "व्यापार का"], "correctAnswerIndex": 1},
+{"qno": 17, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ बच्चों के लिए क्या थीं?", "options": ["केवल खाने की चीज़", "खेलने की चीज़", "खुशी और प्रेम का प्रतीक", "डरावनी चीज़"], "correctAnswerIndex": 2},
+{"qno": 18, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान पर बच्चों को क्या मिलता था?", "options": ["केवल मिठाई", "स्नेह और अपनापन", "डर", "गुस्सा"], "correctAnswerIndex": 1},
+{"qno": 19, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान किस समय सबसे अधिक भीड़भाड़ वाली होती थी?", "options": ["सुबह", "दोपहर", "शाम", "रात"], "correctAnswerIndex": 2},
+{"qno": 20, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान पर बच्चों का व्यवहार कैसा होता था?", "options": ["शांत", "उत्साहित और प्रसन्न", "डरपोक", "उदास"], "correctAnswerIndex": 1},
+{"qno": 21, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान बच्चों के लिए क्या बन गई थी?", "options": ["खेल का मैदान", "विद्यालय", "सपनों की जगह", "डरावनी जगह"], "correctAnswerIndex": 2},
+{"qno": 22, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ किस प्रकार की होती थीं?", "options": ["बासी", "स्वादिष्ट और ताज़ी", "महँगी", "कम मात्रा में"], "correctAnswerIndex": 1},
+{"qno": 23, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले का व्यवहार किस प्रकार का था?", "options": ["क्रोधित", "स्नेही और विनम्र", "गंभीर", "उदासीन"], "correctAnswerIndex": 1},
+{"qno": 24, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान बच्चों के लिए किस भावना से जुड़ी थी?", "options": ["डर", "सपनों और स्नेह से", "गंभीरता", "अजनबीपन"], "correctAnswerIndex": 1},
+{"qno": 25, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ किस बात का प्रतीक थीं?", "options": ["धन का", "सत्ता का", "प्रेम और अपनापन का", "राजनीति का"], "correctAnswerIndex": 2},
+{"qno": 26, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले का जीवन किस मूल्य को दर्शाता है?", "options": ["भव्यता", "त्याग और सेवा", "क्रोध", "दंभ"], "correctAnswerIndex": 1},
+{"qno": 27, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की दुकान पर बच्चों को क्या अनुभव होता था?", "options": ["डर", "सपनों की दुनिया", "गंभीरता", "अजनबीपन"], "correctAnswerIndex": 1},
+{"qno": 28, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले की मिठाइयाँ किससे बनी होती थीं?", "options": ["प्राकृतिक और शुद्ध सामग्री से", "केमिकल से", "बासी चीज़ों से", "बाजार से खरीदी हुई"], "correctAnswerIndex": 0},
+{"qno": 29, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "मिठाईवाले का व्यवहार किस भावना से भरा था?", "options": ["क्रोध", "ममता और स्नेह", "ईर्ष्या", "घृणा"], "correctAnswerIndex": 1},
+{"qno": 30, "board": "NCERT", "cls": "7", "chapter": "Chapter 4", "question": "‘मिठाईवाला’ पाठ का मुख्य संदेश क्या है?", "options": ["धन सबसे बड़ा है", "सादगी और सेवा में भी महानता है", "राजनीति ज़रूरी है", "बच्चों को मिठाई नहीं देनी चाहिए"], "correctAnswerIndex": 1}
+ ]
 }
