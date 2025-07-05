@@ -1,0 +1,16 @@
+To load a file
+./gradlew run --args="serviceAccount.json file.json
+
+
+To validate a collection
+./gradlew run --args="serviceAccount.json null anatomy_questions"
+
+To delete a document
+./gradlew run --args="serviceAccount.json Del anatomy_questions A7qslKhAQ2NBte3DFRcw"
+
+To resequence
+./gradlew run --args="serviceAccount.json F5 anatomy_questions"
+
+To update metadata
+./gradlew run --args="serviceAccount.json Mod metadata anatomy_questions 102"
+

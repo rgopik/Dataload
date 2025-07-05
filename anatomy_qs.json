@@ -2,72 +2,84 @@
   "anatomy_questions": [
     {
       "qno": 1,
+      "cls": "Medicine",
       "question": "Which of the following is the smallest bone in the human body?",
       "options": ["Stapes", "Femur", "Tibia", "Humerus"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 2,
+      "cls": "Medicine",
       "question": "How many bones are there in the adult human skeleton?",
       "options": ["206", "208", "210", "204"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 3,
+      "cls": "Medicine",
       "question": "Which part of the brain controls voluntary muscle movements?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 4,
+      "cls": "Medicine",
       "question": "What is the longest bone in the human body?",
       "options": ["Femur", "Tibia", "Humerus", "Fibula"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 5,
+      "cls": "Medicine",
       "question": "Which organ is responsible for filtering blood and producing urine?",
       "options": ["Kidney", "Liver", "Pancreas", "Spleen"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 6,
+      "cls": "Medicine",
       "question": "Which of the following muscles is responsible for chewing?",
       "options": ["Masseter", "Deltoid", "Trapezius", "Biceps brachii"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 7,
+      "cls": "Medicine",
       "question": "Which part of the eye is responsible for detecting light?",
       "options": ["Retina", "Cornea", "Iris", "Lens"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 8,
+      "cls": "Medicine",
       "question": "Which structure connects muscles to bones?",
       "options": ["Tendons", "Ligaments", "Cartilage", "Fascia"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 9,
+      "cls": "Medicine",
       "question": "Which of the following is part of the axial skeleton?",
       "options": ["Skull", "Femur", "Clavicle", "Scapula"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 10,
+      "cls": "Medicine",
       "question": "Which chamber of the heart pumps oxygenated blood to the body?",
       "options": ["Left ventricle", "Right atrium", "Right ventricle", "Left atrium"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 11,
+      "cls": "Medicine",
       "question": "Which of the following bones forms the forehead?",
       "options": ["Frontal bone", "Parietal bone", "Temporal bone", "Occipital bone"],
       "correctAnswerIndex": 0
     },
     {
       "qno": 12,
+      "cls": "Medicine",
       "question": "Which of the following structures separates the thoracic and abdominal cavities?",
       "options": ["Diaphragm", "Liver", "Stomach", "Pleura"],
       "correctAnswerIndex": 0
