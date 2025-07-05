@@ -124,5 +124,17 @@ fun main(args: Array<String>) {
         ref.set(doc).get() // Wait for completion
         println("Uploaded question ${i + 1}: ${q.question}")
     }
+
+    // Create metadata document with count
+    val chapterName = questions.firstOrNull()?.chapter
+    val metaDocName = if (chapterName != null) {
+        (fileCollectionName + "_" + chapterName).replace(" ", "")
+    } else {
+        fileCollectionName.replace(" ", "")
+    }
+    val metaData = mapOf("count" to questions.size)
+    db.collection("metadata").document(metaDocName).set(metaData).get()
+    println("Metadata document '$metaDocName' created/updated with count: ${questions.size}")
+
     println("All questions uploaded.")
 }
